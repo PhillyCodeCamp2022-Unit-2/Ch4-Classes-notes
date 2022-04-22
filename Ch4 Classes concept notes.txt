@@ -1,0 +1,10 @@
+Key points to take away:
+1. Constructor syntax and using constructors
+2. Access modifiers: public vs private vs internal etc.
+3. Auto-implemented properties
+4. instance methods work like any other methods
+we are used to creating and using up to this point
+
+-------------------------------
+Not quite as imperative to understand:
+1. Static vs instance
