@@ -1,3 +1,7 @@
+THE THING TO UNDERSTAND:
+CLASSES ARE TYPES OF OBJECTS!!!
+
+
 Key points to take away:
 1. Constructor syntax and using constructors
 2. Access modifiers: public vs private vs internal etc.
@@ -8,3 +12,5 @@ we are used to creating and using up to this point
 -------------------------------
 Not quite as imperative to understand:
 1. Static vs instance
+2. Access level should be as restricted as possible
+while still allowing our app to run
