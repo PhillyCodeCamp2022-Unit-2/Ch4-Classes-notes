@@ -1,0 +1,4 @@
+Course class ---> college course
+string ProfessorName (or maybe if we had Teacher class?)
+string CourseName
+List<Student>, a student roster
